@@ -1,3 +1,3 @@
 # Ignoring books. Data is not code!
-
 /books
+__pycache__/
